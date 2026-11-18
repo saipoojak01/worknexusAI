@@ -1,0 +1,6 @@
+{
+  "name": "WorkNexus AI",
+  "description": "An AI-powered national workforce technology platform connecting skilled youth with MSMEs and employment opportunities through skill assessment, verification, gap analysis, and intelligent matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
